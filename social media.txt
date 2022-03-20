@@ -1,0 +1,46 @@
+       SOCIAL MEDIA ---> MERN (MONGODB,EXPRESS.JS, REACT.JS,NODE.JS)
+       MONGODB ---> NOSQL, DATABASE
+       REACT.JS---> FRONTEND FRAMEWORK    
+       NODE.JS---> BACKEND
+       EXPRESS.JS--> BACKEND FRAMEWORK
+       
+       
+       
+Technologies:      
+> FRONT-END  
+* UI/UX      Photo editing --> pre-planned for frontend   
+* HTML,CSS,JAVASCRPIT -> 
+HTML -> Skelton
+CSS-> Skin
+Javascript->Brain
+
+front end using UI/UX (LOGIN page, Signup design , colors) 
+Disadvantages:  code reduce is not possible 
+* REACT.JS , VUE.JS, ANGULAR.JS  --> Frontend framework (Bundle the frontend) 
+Advantage : reduce code is possible
+Requirements: NODE.JS --> Bundle of javascript libraries
+Commmands: 
+       npm create react-app appname
+			   JSON  VS TABLES
+* JSON is a dictonary of key-value pairs  ---> MONGODB  ---> NO SQL
+* JSON ADVANTAGE ---> all fields depends upon user
+* TABLES mean SQL consis of rows and columns -->
+MYSQL --> depend on code
+
+
+		REACT.JS			
+1.  COMPONENTS   ----> SEPARATE FILES
+2. ALL components are Integrated in APP.JS file
+3. APP.JS file will be rendered to the user	
+
+
+React important concepts    
+1. Components
+2. Props -->  parent child relation components
+3. To integrate component into another component systax
+<COMPONENT FILE-NAME  />
+
+
+
+			   	
+     
